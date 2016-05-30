@@ -8,4 +8,4 @@ My name is Adam Smith.
 
 <br/>
 
-I currently attend Coastal Carolina University.
+I am a computer science student, and I currently attend Coastal Carolina University.
