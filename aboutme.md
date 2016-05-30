@@ -1,2 +1,4 @@
 ### About Me
-My name is Adam Smith. These are some changes.
+My name is Adam Smith.
+<br/>
+These are some changes.
