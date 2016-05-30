@@ -3,6 +3,7 @@ My name is Adam Smith.
 
 <br/>
 
+<> glasses image
 ![Alt text](image.jpg)
 
 <br/>
